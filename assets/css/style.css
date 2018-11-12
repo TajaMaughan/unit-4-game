@@ -1,0 +1,28 @@
+body{
+    background: url("../images/greenArgyle.gif");
+}
+
+.description {
+    background-color: #aed8a4;
+    font-family: 'Comfortaa', cursive;
+    border-color: #e46983;
+    border-style: groove;
+    border-width: 10px;
+}
+
+.game {
+    background-color: #aed8a4;
+    font-family: 'Comfortaa', cursive;
+    border-color: #e46983;
+    border-style: groove;
+    border-width: 10px;
+}
+
+
+.gems {
+    background-color: #aed8a4;
+    border-color: #e46983;
+    border-style: groove;
+    border-width: 10px;
+}
+
