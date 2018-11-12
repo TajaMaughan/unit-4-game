@@ -1,4 +1,4 @@
-body{
+body {
     background: url("../images/greenArgyle.gif");
 }
 
@@ -12,7 +12,6 @@ body{
 
 .game {
     background-color: #aed8a4;
-    font-family: 'Comfortaa', cursive;
     border-color: #e46983;
     border-style: groove;
     border-width: 10px;
@@ -24,5 +23,10 @@ body{
     border-color: #e46983;
     border-style: groove;
     border-width: 10px;
+}
+
+h4 {
+    font-family: 'Cookie', cursive;
+    font-size: 30px;
 }
 
